@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "WorkService.NetCore6._0": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
